@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi I'm Amenu S. Shilbe👋
+- 🔭 I’m finishing EVANGADI boot camp and excited to dive and swim in technology.
+- 👯 I’m looking to collaborate on>>> ready..set..go...
 <!--
 **Amenu-sh/Amenu-Sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
