@@ -1,7 +1,7 @@
 ### Hi I'm Amenu S. Shilbe👋
-- 🔭 Excited to dive and swim in technology.
-- 👯 Collaborate on>>> ready..set..go...
-- Reach me out: ...https://www.linkedin.com/in/amenu-s-shilbe-364b4277/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BhrICPvkcTwm5rCUW6%2FdjTA%3D%3D
+- Excited to dive and swim in technology.
+- Collaborate on ==> ready..set..go...
+- Reach me out ==> https://www.linkedin.com/in/amenu-s-shilbe-364b4277/
 <!--
 **Amenu-sh/Amenu-Sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
