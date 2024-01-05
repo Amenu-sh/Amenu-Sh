@@ -1,14 +1,12 @@
-### Hi I'm Amenu S. Shilbe👋
-- Excited to dive and swim in technology.
-- Collaborate on ==> ready..set..go...
-- Reach me out ==> https://www.linkedin.com/in/amenu-shilbe/
+  Hi I'm Amenu 
+- I love coding and building full-stack web
+- Alone you can walk fast not too far, But together the sky is the limit.
 
 
 ## Let's Connect ⚡
 Reach me out on social media:
-- [Instagram](https://www.instagram.com/amanu_2040/)
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
-
+- [Instagram](https://www.instagram.com/amanu_2040/)
 - [YouTube](https://www.youtube.com/c/amanushifara9451)
 
 ### Languages
