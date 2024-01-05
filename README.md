@@ -24,6 +24,19 @@ MySQL | Relational DB
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amenu-Sh&show_icons=true&hide_title=true&hide=prs,contribs)
 
+<!-- Add some additional styles using HTML -->
+<style>
+  h1, h2, h3, h4, h5, h6 {
+    color: red;
+  }
+
+  p {
+    color: #555;
+  }
+
+  /* Add more styles as needed */
+</style>
+
 
 <!--
 **Amenu-sh/Amenu-Sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,4 +51,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
