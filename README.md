@@ -1,4 +1,4 @@
-  Hi I'm Amenu 
+## Hi I'm Amenu
 - I love coding and building full-stack web
 - Alone you can walk fast not too far, But together the sky is the limit.
 
