@@ -18,7 +18,7 @@ Firebase | Netlify | AWS
 ### Frameworks, Platforms & Libraries
 React.js | Node.js | Express.js | Next.js |React Router |jQuery | NPM | Boostrap |Tailwind CSS
 
-### Databases & Design Tools
+### Databases
 MySQL | Relational DB
 
 ## 📊 GitHub Stats
