@@ -16,7 +16,7 @@ HTML5 | CSS3 |JavaScript | PHP
 Firebase | Netlify | AWS 
 
 ### Frameworks, Platforms & Libraries
-React.js | Node.js | Express.js | Next.js |React Router |jQuery | NPM | Boostrap |Tailwind CSS
+React.js | Node.js | Express.js | Next.js | React Router |jQuery | NPM | Boostrap |Tailwind CSS
 
 ### Databases
 MySQL | Relational DB
