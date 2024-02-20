@@ -21,7 +21,7 @@ React.js | Node.js | Express.js | Next.js | React Router |jQuery | NPM | Boostra
 ### Databases
 MySQL | Relational DB
 
-### 👨‍💻 Tech Stack:
+### Tech Stack:
 [](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png)
 
 [](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png)
