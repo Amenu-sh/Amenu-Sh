@@ -20,6 +20,37 @@ React.js | Node.js | Express.js | Next.js | React Router |jQuery | NPM | Boostra
 
 ### Databases
 MySQL | Relational DB
+👨‍💻 Tech Stack:
+java
+
+java
+
+java
+
+java
+
+java
+
+java
+
+java
+
+java
+
+java
+
+java
+
+java
+
+java
+
+java
+
+java
+
+
+
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amenu-Sh&show_icons=true&hide_title=true&hide=prs,contribs)
