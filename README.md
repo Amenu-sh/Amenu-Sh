@@ -20,37 +20,13 @@ React.js | Node.js | Express.js | Next.js | React Router |jQuery | NPM | Boostra
 
 ### Databases
 MySQL | Relational DB
-👨‍💻 Tech Stack:
-java
 
-java
+### 👨‍💻 Tech Stack:
+[java](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png)
 
-java
+[java](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png)
 
-java
-
-java
-
-java
-
-java
-
-java
-
-java
-
-java
-
-java
-
-java
-
-java
-
-java
-
-
-
+[java](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amenu-Sh&show_icons=true&hide_title=true&hide=prs,contribs)
