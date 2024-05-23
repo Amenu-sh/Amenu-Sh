@@ -4,7 +4,7 @@
 
 
 ## Let's Connect ⚡
-Reach me out on social media:
+Reach me out:
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
 - [amenu@projectascend.io](https://mail.google.com/mail/u/1/)
 - [contact@amenushi.com](contact@amenushi.com)
