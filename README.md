@@ -6,6 +6,7 @@
 ## Let's Connect ⚡
 Reach me out on social media:
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
+- [amenu@projectascend.io](https://mail.google.com/mail/u/1/#inbox)
 - [amenu@projectascend.io](amenu@projectascend.io)
 - [contact@amenushi.com](contact@amenushi.com)
 
@@ -19,7 +20,7 @@ Firebase | Netlify | AWS
 React.js | Node.js | Express.js | Next.js | React Router |jQuery | NPM | Boostrap |Tailwind CSS
 
 ### Databases
-MySQL | Relational DB
+MySQL | Relational DB | MongoDB
 
 ### Tech Stack:
 [](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png)
