@@ -1,13 +1,13 @@
 ## Hi I'm Amenu
-- I love coding and building full-stack web
+- Practice, Hands-on-coding and building full-stack web
 - Alone you can walk fast not too far, But together the sky is the limit.
 
 
 ## Let's Connect ⚡
 Reach me out on social media:
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
-- [Instagram](https://www.instagram.com/amanu_2040/)
-- [YouTube](https://www.youtube.com/c/amanushifara9451)
+- [amenu@projectascend.io](amenu@projectascend.io)
+- [contact@amenushi.com](contact@amenushi.com)
 
 ### Languages
 HTML5 | CSS3 |JavaScript | PHP 
@@ -29,7 +29,7 @@ MySQL | Relational DB
 [](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amenu-Sh&show_icons=true&hide_title=true&hide=prs,contribs)
+
 
 
 <!--
