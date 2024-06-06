@@ -1,4 +1,3 @@
-
 <h2>Hi I'm <strong>Amenu</strong></h2>
 <h3>I Believe that</h1>
 
@@ -9,8 +8,11 @@
 
 <h4> Let's Connect ⚡</h4>
 Reach me out:
+
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
+
 - [amenu@projectascend.io](https://mail.google.com/mail/u/1/)
+
 - [contact@amenushi.com](contact@amenushi.com)
 
 ### Languages
