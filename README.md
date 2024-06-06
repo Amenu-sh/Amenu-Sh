@@ -4,7 +4,7 @@
 
 - Practice(X3), Hands-on-coding and building full-stack web 
 - Alone you can walk fast not too far, But together the sky is the limit.
-  <h5 color="red">That means </h5>
+  <h5 style="color: red;">That means</h5>
 
 
 <h5> Let's Connect ⚡</h5>
