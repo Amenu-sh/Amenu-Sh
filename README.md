@@ -1,7 +1,8 @@
 
 <h1>Hi I'm Amenu</h1>
-## Hi I'm Amenu
-- Practice, Hands-on-coding and building full-stack web
+<h3>I agreed</h1>
+
+- Practice[X3], Hands-on-coding and building full-stack web..Repeat
 - Alone you can walk fast not too far, But together the sky is the limit.
 
 
