@@ -1,12 +1,13 @@
 
-<h1>Hi I'm Amenu</h1>
-<h3>I agreed</h1>
+<h2>Hi I'm <strong>Amenu</strong></h2>
+<h3>I Believe that</h1>
 
-- Practice[X3], Hands-on-coding and building full-stack web..Repeat
+- Practice(X3), Hands-on-coding and building full-stack web 
 - Alone you can walk fast not too far, But together the sky is the limit.
+  <h5>That means </h5>
 
 
-## Let's Connect ⚡
+<h5> Let's Connect ⚡</h5>
 Reach me out:
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
 - [amenu@projectascend.io](https://mail.google.com/mail/u/1/)
