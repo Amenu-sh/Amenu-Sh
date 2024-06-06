@@ -4,10 +4,10 @@
 
 - Practice(X3), Hands-on-coding and building full-stack web 
 - Alone you can walk fast not too far, But together the sky is the limit.
-  <h5 style="color:red">That means</h5>
 
 
-<h5> Let's Connect ⚡</h5>
+
+<h4> Let's Connect ⚡</h4>
 Reach me out:
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
 - [amenu@projectascend.io](https://mail.google.com/mail/u/1/)
