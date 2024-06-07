@@ -14,12 +14,7 @@ Desktop Application for internal use of a company (the inside scoop) using React
 <h3>Reach me out:</h3>
 <a href="mailto:amenu@projectascend.io">amenu@projectascend.io</a>
 
-<a href="mailto:amenu@projectascend.io">amenu@projectascend.io</a>
-
-<a href="mailto:amenu@projectascend.io">amenu@projectascend.io</a>
-<a href="mailto:amenu@projectascend.io">amenu@projectascend.io</a>
-- [amenu@projectascend.io](https://mail.google.com/mail/u/1/)
-- [contact@amenushi.com](contact@amenushi.com)
+<a href="mailto:contact@amenushi.com">contact@amenushi.com</a>
 
 ### Languages
 HTML5 | CSS3 |JavaScript | Typescript | PHP 
