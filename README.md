@@ -1,16 +1,16 @@
 <h2>Hi I'm <strong>Amenu</strong></h2>
-<h3>Every Day</h3>
+<h2>Every Day</h2>
 - Practice(X3), Hands-on-coding and building full-stack web
-<h5> Noticed that:) </h5>
+<h3> Noticed that:) </h3>
 - Alone you can walk fast not too far, But together the sky is the limit.
 
-<h5> 🔭 I’m currently working on </h5>
+<h3> 🔭 I’m currently working on </h3>
 Desktop Application for internal use of a company (the inside scoop) using React, Electron, and TypeScript
 
-<h4> Let's Connect ⚡</h4>
+<h3> Let's Connect ⚡</h3>
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
 
-<h4>Reach me out:</h4>
+<h3>Reach me out:</h3>
 - [amenu@projectascend.io](https://mail.google.com/mail/u/1/)
 - [contact@amenushi.com](contact@amenushi.com)
 
