@@ -1,12 +1,13 @@
 <h2>Hi I'm <strong>Amenu</strong></h2>
 <h2>Every Day</h2>
 - Practice(X3), Hands-on-coding and building full-stack web
-<h3> Noticed that:) </h3>
-- Alone you can walk fast not too far, But together the sky is the limit.
+
 
 <h3> 🔭 I’m currently working on </h3>
 Desktop Application for internal use of a company (the inside scoop) using React, Electron, and TypeScript
 
+<h3> Noticed that:) </h3>
+- Alone you can walk fast not too far, But together the sky is the limit.
 <h3> Let's Connect ⚡</h3>
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
 
