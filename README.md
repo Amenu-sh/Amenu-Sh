@@ -18,6 +18,7 @@ Desktop Application for internal use of a company (the inside scoop) using React
 
 ### Languages
 HTML5 | CSS3 |JavaScript | Typescript | PHP 
+csharp cplusplus java react nodejs mongodb mysql postgresql html5 css3 javascript git
 
 ### Hosting
 Firebase | Netlify | AWS 
