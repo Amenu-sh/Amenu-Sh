@@ -9,6 +9,8 @@ Desktop Application for internal use of a company (the inside scoop) using React
 <h3> Noticed that:) </h3>
 - Alone you can walk fast not too far, But together the sky is the limit.
 <h3> Let's Connect ⚡</h3>
+<a href="https://www.linkedin.com/in/amenu-shilbe">Linkedin</a>
+
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
 
 <h3>Reach me out:</h3>
