@@ -1,28 +1,31 @@
 <h2>Hi I'm <strong>Amenu</strong></h2>
-<h3>I Believe that</h1>
+<h3>Believe in</h1>
 
 - Practice(X3), Hands-on-coding and building full-stack web 
 - Alone you can walk fast not too far, But together the sky is the limit.
 
-
+<h5> 🔭 I’m currently working on </h5>
+Desktop Application (the inside scoop) using React, Electron, and TypeScript
 
 <h4> Let's Connect ⚡</h4>
-Reach me out:
+
 
 - [Linkedin](https://www.linkedin.com/in/amenu-shilbe/)
+
+  <h4>Reach me out:</h4>>
 
 - [amenu@projectascend.io](https://mail.google.com/mail/u/1/)
 
 - [contact@amenushi.com](contact@amenushi.com)
 
 ### Languages
-HTML5 | CSS3 |JavaScript | PHP 
+HTML5 | CSS3 |JavaScript | Typescript | PHP 
 
 ### Hosting
 Firebase | Netlify | AWS 
 
 ### Frameworks, Platforms & Libraries
-React.js | Node.js | Express.js | Next.js | React Router |jQuery | NPM | Boostrap |Tailwind CSS
+React.js | Node.js | Express.js | Next.js | Electron.js | React Router | jQuery | NPM | Boostrap |Tailwind CSS
 
 ### Databases
 MySQL | Relational DB | MongoDB
