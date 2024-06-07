@@ -1,9 +1,9 @@
 <h2>Hi I'm <strong>Amenu</strong></h2>
-<h2>Every Day</h2>
+<h3>Every Day</h3>
 - Practice(X3), Hands-on-coding and building full-stack web
 
 
-<h3> 🔭 I’m currently working on </h3>
+<h2> 🔭 I’m currently working on </h2>
 Desktop Application for internal use of a company (the inside scoop) using React, Electron, and TypeScript
 
 <h3> Noticed that:) </h3>
