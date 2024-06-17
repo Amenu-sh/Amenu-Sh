@@ -20,7 +20,7 @@ Desktop Application for internal use of a company (the inside scoop) using React
 HTML5 | CSS3 |JavaScript | Typescript | PHP 
 
 ### Hosting
-Firebase | Netlify | AWS 
+Firebase | Netlify | AWS | Hostinger 
 
 ### Frameworks, Platforms & Libraries
 React.js | Node.js | Express.js | Next.js | Electron.js | React Router | jQuery | NPM | Boostrap |Tailwind CSS
@@ -34,6 +34,9 @@ MySQL | Relational DB | MongoDB
 [](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png)
 
 [](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+
+## software platform and tools
+Git | JIRA | Docker
 
 ## 📊 GitHub Stats
 
