@@ -1,6 +1,6 @@
 <h2>Hi I'm <strong>Amenu</strong></h2>
 <h3>Every Day</h3>
-- Practice(X3), Hands-on-coding and building full-stack web
+- "If you can't run, then walk, If you can't walk, then crawl, but whatever you do, you have to keep moving": Martin Luther King Jr
 
 
 <h2> 🔭 I’m currently working on </h2>
@@ -17,7 +17,7 @@ Desktop Application for internal use of a company (the inside scoop) using React
 - <a href="mailto:contact@amenushi.com">contact@amenushi.com</a>
 
 ### Languages
-HTML5 | CSS3 |JavaScript | Typescript | PHP 
+HTML5 | CSS3 |JavaScript | Typescript | Python | PHP 
 
 ### Hosting
 Firebase | Netlify | AWS | Hostinger 
@@ -36,7 +36,7 @@ MySQL | Relational DB | MongoDB
 [](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
 
 ## software platform and tools
-Git | JIRA | Docker
+Git | JIRA | Docker | Pycharm | VSC
 
 ## 📊 GitHub Stats
 
