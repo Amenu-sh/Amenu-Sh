@@ -1,6 +1,6 @@
 <h2>Hi I'm <strong>Amenu</strong></h2>
 <h3>Every Day</h3>
-- "If you can't run, then <h5>walk</h5>walk, If you can't walk, then #crawl, but whatever you do, you have to ##keep moving":  ## Martin Luther King Jr
+- "If you can't run, then <strong>walk</strong>, If you can't walk, then #crawl, but whatever you do, you have to ##keep moving":  ## Martin Luther King Jr
 
 
 <h2> 🔭 I’m currently working on </h2>
