@@ -3,8 +3,11 @@
 - "If you can't run, then <strong>walk</strong>, If you can't walk, then <strong>crawl</strong>, but whatever you do, you have to <strong>keep moving</strong>": <strong>M.L.King</strong>
 
 
-<h2> 🔭 I’m currently working on </h2>
+<h2> 🔭 On my last sprint, I completed </h2>
 Desktop Application for internal use of a company (the inside scoop) using React, Electron, and TypeScript
+
+<h2> 🔭 I’m currently working on </h2>
+Mobile App using React Native, Typescript, and Appwrite
 
 <h3> Noticed that:) </h3>
 - Alone you can walk fast not too far, But together the sky is the limit.
